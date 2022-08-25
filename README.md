@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Fennell</h1>
-<h3 align="center">I teach Data Analysis and Software Engineering. I love working with Machine Learning on Financial Risk projects (Stock Markets, Credit Risk and Sports or Politics Betting). I also create AI agents to play Card Games like Poker and currently working on the Board Game Risk.</h3>
+<h3 align="center">I teach Data Analysis and Software Engineering. I love working with Machine Learning on Financial Risk projects (Stock Markets, Credit Risk and Sports or Politics Betting). I also create AI agents to play Card Games like Poker.</h3>
 
 - 🌱 I’m currently learning **Scala**
 
